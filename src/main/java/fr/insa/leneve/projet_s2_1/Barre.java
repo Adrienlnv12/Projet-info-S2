@@ -13,7 +13,7 @@ import java.awt.Color;
  */
 public class Barre {
      
-    private int id;
+    private int id; /*g*/
     private Noeud Noeuddepart;
     private Noeud Noeudarrivee;
     private double traction;
